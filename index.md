@@ -1,15 +1,13 @@
 ## Cheng Cheng
 Contact: cheng_cheng87@126.com ; chengch66@mail.sysu.edu.cn
 
-You can use the [CV](https://github.com/ChengCheng0128/ChengCheng/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Working Experience:
 1. 2020/10 - Present, School of Mathematics, Sun Yat-sen University, Research Fellow
 2. 2017/08 - 2020/08, Department of Mathematics, Duke University, Postdoc Associate
+
    Mentor: Ingrid Daubechies
 3. 2017/08 - 2019/08, SAMSI, Postdoc Associate
+
    Mentor: Ingrid Daubechies
 
 
