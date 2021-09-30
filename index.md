@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Cheng Cheng's Website
 
 You can use the [editor on GitHub](https://github.com/ChengCheng0128/ChengCheng/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Welcome to Cheng Cheng's Website
+## Contact: cheng_cheng87@126.com ; chengch66@mail.sysu.edu.cn
+###  
 
 - Bulleted
 - List
